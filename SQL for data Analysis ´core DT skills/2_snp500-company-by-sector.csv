@@ -1,0 +1,492 @@
+Ticker;CompanyName;Sector;StockPrice
+AAP;Advance Auto Parts;Consumer Discretionary;109.63
+AMZN;Amazon.com Inc;Consumer Discretionary;1350.5
+APTV;Aptiv Plc;Consumer Discretionary;89.27
+AZO;AutoZone Inc;Consumer Discretionary;718.57
+BBY;Best Buy Co. Inc.;Consumer Discretionary;68.79
+BWA;BorgWarner;Consumer Discretionary;51.94
+CBS;CBS Corp.;Consumer Discretionary;51.8
+CCL;Carnival Corp.;Consumer Discretionary;66.76
+CHTR;Charter Communications;Consumer Discretionary;348.65
+CMCSA;Comcast Corp.;Consumer Discretionary;38.19
+CMG;Chipotle Mexican Grill;Consumer Discretionary;266.01
+DG;Dollar General;Consumer Discretionary;95.1
+DHI;D. R. Horton;Consumer Discretionary;44.55
+DIS;The Walt Disney Company;Consumer Discretionary;101.35
+DISCA;Discovery Communications-A;Consumer Discretionary;22.87
+DISCK;Discovery Communications-C;Consumer Discretionary;21.58
+DISH;Dish Network;Consumer Discretionary;43.77
+DLTR;Dollar Tree;Consumer Discretionary;101.58
+DRI;Darden Restaurants;Consumer Discretionary;91.33
+EXPE;Expedia Inc.;Consumer Discretionary;123.03
+F;Ford Motor;Consumer Discretionary;10.43
+FL;Foot Locker Inc;Consumer Discretionary;45.88
+FOX;Twenty-First Century Fox Class B;Consumer Discretionary;34.09
+FOXA;Twenty-First Century Fox Class A;Consumer Discretionary;34.56
+GM;General Motors;Consumer Discretionary;40.75
+GPC;Genuine Parts;Consumer Discretionary;96.31
+GPS;Gap Inc.;Consumer Discretionary;31.17
+GRMN;Garmin Ltd.;Consumer Discretionary;61.13
+GT;Goodyear Tire & Rubber;Consumer Discretionary;30.75
+HAS;Hasbro Inc.;Consumer Discretionary;96.48
+HBI;Hanesbrands Inc;Consumer Discretionary;19.57
+HD;Home Depot;Consumer Discretionary;181.22
+HLT;Hilton Worldwide Holdings Inc;Consumer Discretionary;78.66
+HOG;Harley-Davidson;Consumer Discretionary;47.54
+IPG;Interpublic Group;Consumer Discretionary;21.34
+JWN;Nordstrom;Consumer Discretionary;47.23
+KMX;Carmax Inc;Consumer Discretionary;64.34
+KORS;Michael Kors Holdings;Consumer Discretionary;60.03
+KSS;Kohl's Corp.;Consumer Discretionary;60.34
+LB;L Brands Inc.;Consumer Discretionary;47.77
+LEG;Leggett & Platt;Consumer Discretionary;43.99
+LEN;Lennar Corp.;Consumer Discretionary;59.11
+LKQ;LKQ Corporation;Consumer Discretionary;38.86
+LOW;Lowe's Cos.;Consumer Discretionary;95.01
+M;Macy's Inc.;Consumer Discretionary;24
+MAR;Marriott Int'l.;Consumer Discretionary;133.88
+MAT;Mattel Inc.;Consumer Discretionary;16
+MCD;McDonald's Corp.;Consumer Discretionary;158.97
+MGM;MGM Resorts International;Consumer Discretionary;33.5
+MHK;Mohawk Industries;Consumer Discretionary;256.57
+NCLH;Norwegian Cruise Line;Consumer Discretionary;56.01
+NKE;Nike;Consumer Discretionary;62.49
+NWL;Newell Brands;Consumer Discretionary;27.91
+NWS;News Corp. Class B;Consumer Discretionary;15.85
+NWSA;News Corp. Class A;Consumer Discretionary;15.65
+OMC;Omnicom Group;Consumer Discretionary;75.91
+ORLY;O'Reilly Automotive;Consumer Discretionary;252.22
+PCLN;Priceline.com Inc;Consumer Discretionary;1806.06
+PHM;Pulte Homes Inc.;Consumer Discretionary;28.67
+PVH;PVH Corp.;Consumer Discretionary;142.68
+RCL;Royal Caribbean Cruises Ltd;Consumer Discretionary;122.45
+RL;Polo Ralph Lauren Corp.;Consumer Discretionary;101.32
+ROST;Ross Stores;Consumer Discretionary;75.06
+SBUX;Starbucks Corp.;Consumer Discretionary;53.77
+SIG;Signet Jewelers;Consumer Discretionary;49.38
+SNA;Snap-On Inc.;Consumer Discretionary;156.72
+SNI;Scripps Networks Interactive Inc.;Consumer Discretionary;86.46
+SWK;Stanley Black & Decker;Consumer Discretionary;152.86
+TGT;Target Corp.;Consumer Discretionary;71.11
+TIF;Tiffany & Co.;Consumer Discretionary;99.62
+TJX;TJX Companies Inc.;Consumer Discretionary;74.36
+TRIP;TripAdvisor;Consumer Discretionary;40.05
+TSCO;Tractor Supply Company;Consumer Discretionary;65.94
+TWX;Time Warner Inc.;Consumer Discretionary;93.02
+UA;Under Armour Class C;Consumer Discretionary;11.95
+UAA;Under Armour Class A;Consumer Discretionary;13.14
+ULTA;Ulta Salon Cosmetics & Fragrance Inc;Consumer Discretionary;209.09
+VFC;V.F. Corp.;Consumer Discretionary;78.75
+VIAB;Viacom Inc.;Consumer Discretionary;32.71
+WHR;Whirlpool Corp.;Consumer Discretionary;164.95
+WYN;Wyndham Worldwide;Consumer Discretionary;113.56
+WYNN;Wynn Resorts Ltd;Consumer Discretionary;169.28
+YUM;Yum! Brands Inc;Consumer Discretionary;76.3
+ADM;Archer-Daniels-Midland Co;Consumer Staples;41.35
+BF.B;Brown-Forman Corp.;Consumer Staples;63.33
+CAG;Conagra Brands;Consumer Staples;35.49
+CHD;Church & Dwight;Consumer Staples;47.38
+CL;Colgate-Palmolive;Consumer Staples;68.95
+CLX;The Clorox Company;Consumer Staples;127.76
+COST;Costco Wholesale Corp.;Consumer Staples;178.61
+CPB;Campbell Soup;Consumer Staples;44.83
+CVS;CVS Health;Consumer Staples;70.55
+DPS;Dr Pepper Snapple Group;Consumer Staples;116.93
+EL;Estee Lauder Cos.;Consumer Staples;131.46
+GIS;General Mills;Consumer Staples;53.99
+HRL;Hormel Foods Corp.;Consumer Staples;32.21
+HSY;The Hershey Company;Consumer Staples;97.65
+K;Kellogg Co.;Consumer Staples;65.98
+KHC;Kraft Heinz Co;Consumer Staples;71.58
+KMB;Kimberly-Clark;Consumer Staples;111.69
+KO;Coca-Cola Company (The);Consumer Staples;43.1
+KR;Kroger Co.;Consumer Staples;27.57
+MDLZ;Mondelez International;Consumer Staples;42.68
+MKC;McCormick & Co.;Consumer Staples;101.36
+MNST;Monster Beverage;Consumer Staples;61.99
+MO;Altria Group Inc;Consumer Staples;64.05
+PEP;PepsiCo Inc.;Consumer Staples;110.15
+PG;Procter & Gamble;Consumer Staples;80.22
+PM;Philip Morris International;Consumer Staples;100.39
+SJM;JM Smucker;Consumer Staples;118.37
+STZ;Constellation Brands;Consumer Staples;208.73
+SYY;Sysco Corp.;Consumer Staples;57
+TAP;Molson Coors Brewing Company;Consumer Staples;74.51
+TSN;Tyson Foods;Consumer Staples;73.92
+WBA;Walgreens Boots Alliance;Consumer Staples;68.22
+WMT;Wal-Mart Stores;Consumer Staples;100.02
+ANDV;Andeavor;Energy;96.9
+APA;Apache Corporation;Energy;37.73
+APC;Anadarko Petroleum Corp;Energy;56.2
+CHK;Chesapeake Energy;Energy;2.82
+COG;Cabot Oil & Gas;Energy;23.01
+COP;ConocoPhillips;Energy;53.24
+CVX;Chevron Corp.;Energy;112.3
+CXO;Concho Resources;Energy;140.09
+DVN;Devon Energy Corp.;Energy;34.94
+EOG;EOG Resources;Energy;101.04
+EQT;EQT Corporation;Energy;46.25
+FTI;TechnipFMC;Energy;29.1
+HAL;Halliburton Co.;Energy;47.41
+HES;Hess Corporation;Energy;43
+HP;Helmerich & Payne;Energy;64.87
+KMI;Kinder Morgan;Energy;16.8
+MPC;Marathon Petroleum;Energy;62.79
+MRO;Marathon Oil Corp.;Energy;15.68
+NBL;Noble Energy Inc;Energy;25.43
+NFX;Newfield Exploration Co;Energy;26.38
+NOV;National Oilwell Varco Inc.;Energy;32.64
+OKE;ONEOK;Energy;54.4
+OXY;Occidental Petroleum;Energy;68.47
+PSX;Phillips 66;Energy;92.44
+PXD;Pioneer Natural Resources;Energy;169.16
+RRC;Range Resources Corp.;Energy;12.82
+SLB;Schlumberger Ltd.;Energy;67.4
+VLO;Valero Energy;Energy;86.77
+WMB;Williams Cos.;Energy;28.56
+XEC;Cimarex Energy;Energy;100.19
+XOM;Exxon Mobil Corp.;Energy;76.07
+AFL;AFLAC Inc;Financials;83.25
+AIZ;Assurant Inc;Financials;85.16
+AJG;Arthur J. Gallagher & Co.;Financials;64.4
+ALL;Allstate Corp;Financials;90.06
+AMG;Affiliated Managers Group Inc;Financials;179.11
+AMP;Ameriprise Financial;Financials;152.5
+AON;Aon plc;Financials;136.05
+AXP;American Express Co;Financials;88.34
+BAC;Bank of America Corp;Financials;29.74
+BBT;BB&T Corporation;Financials;51.07
+BEN;Franklin Resources;Financials;38
+BHF;Brighthouse Financial Inc;Financials;55.44
+BK;The Bank of New York Mellon Corp.;Financials;53.29
+BLK;BlackRock;Financials;509.38
+BRK.B;Berkshire Hathaway;Financials;191.42
+C;Citigroup Inc.;Financials;71.87
+CB;Chubb Limited;Financials;140.39
+CBOE;CBOE Holdings;Financials;111.15
+CFG;Citizens Financial Group;Financials;42.19
+CINF;Cincinnati Financial;Financials;70.34
+CMA;Comerica Inc.;Financials;89.18
+CME;CME Group Inc.;Financials;153.04
+COF;Capital One Financial;Financials;91.8
+DFS;Discover Financial Services;Financials;72.4
+ETFC;E*Trade;Financials;48.48
+FITB;Fifth Third Bancorp;Financials;31.1
+GS;Goldman Sachs Group;Financials;246.35
+HBAN;Huntington Bancshares;Financials;15.1
+HIG;Hartford Financial Svc.Gp.;Financials;53.34
+HRB;Block H&R;Financials;25.19
+ICE;Intercontinental Exchange;Financials;67
+IVZ;Invesco Ltd.;Financials;31.92
+JPM;JPMorgan Chase & Co.;Financials;107.88
+KEY;KeyCorp;Financials;20.08
+L;Loews Corp.;Financials;46.05
+LNC;Lincoln National;Financials;73.86
+LUK;Leucadia National Corp.;Financials;23.86
+MCO;Moody's Corp;Financials;152.14
+MET;MetLife Inc.;Financials;44.28
+MMC;Marsh & McLennan;Financials;79.31
+MS;Morgan Stanley;Financials;51.79
+MTB;M&T Bank Corp.;Financials;178.35
+NAVI;Navient;Financials;13.38
+NTRS;Northern Trust Corp.;Financials;96.2
+PBCT;People's United Financial;Financials;18.56
+PFG;Principal Financial Group;Financials;60.38
+PGR;Progressive Corp.;Financials;51.07
+PNC;PNC Financial Services;Financials;149.38
+PRU;Prudential Financial;Financials;103.38
+RE;Everest Re Group Ltd.;Financials;241.06
+RF;Regions Financial Corp.;Financials;17.9
+RJF;Raymond James Financial Inc.;Financials;86.06
+SCHW;Charles Schwab Corporation;Financials;48.9
+STI;SunTrust Banks;Financials;65.8
+STT;State Street Corp.;Financials;98.54
+SYF;Synchrony Financial;Financials;34.98
+TMK;Torchmark Corp.;Financials;80.52
+TROW;T. Rowe Price Group;Financials;101.99
+TRV;The Travelers Companies Inc.;Financials;135.01
+UNM;Unum Group;Financials;47.87
+USB;U.S. Bancorp;Financials;52.65
+WFC;Wells Fargo;Financials;55.4
+WLTW;Willis Towers Watson;Financials;152.36
+XL;XL Capital;Financials;41.26
+ZION;Zions Bancorp;Financials;50.71
+A;Agilent Technologies Inc;Health Care;65.05
+ABBV;AbbVie Inc.;Health Care;108.48
+ABC;AmerisourceBergen Corp;Health Care;91.55
+ABT;Abbott Laboratories;Health Care;56.27
+AET;Aetna Inc;Health Care;178
+ALGN;Align Technology;Health Care;220.71
+ALXN;Alexion Pharmaceuticals;Health Care;108.47
+AMGN;Amgen Inc;Health Care;173.12
+ANTM;Anthem Inc.;Health Care;230.57
+BAX;Baxter International Inc.;Health Care;62.56
+BDX;Becton Dickinson;Health Care;211.44
+BIIB;Biogen Inc.;Health Care;311.79
+BMY;Bristol-Myers Squibb;Health Care;62.69
+BSX;Boston Scientific;Health Care;25.2
+CAH;Cardinal Health Inc.;Health Care;66.63
+CELG;Celgene Corp.;Health Care;91.02
+CERN;Cerner;Health Care;61.22
+CI;CIGNA Corp.;Health Care;189.27
+CNC;Centene Corporation;Health Care;100.36
+COO;The Cooper Companies;Health Care;223.17
+DGX;Quest Diagnostics;Health Care;96.42
+DHR;Danaher Corp.;Health Care;92.16
+DVA;DaVita Inc.;Health Care;71.91
+ESRX;Express Scripts;Health Care;73.35
+EVHC;Envision Healthcare;Health Care;35.34
+EW;Edwards Lifesciences;Health Care;123.78
+GILD;Gilead Sciences;Health Care;78.22
+HCA;HCA Holdings;Health Care;95.97
+HOLX;Hologic;Health Care;38.8
+HSIC;Henry Schein;Health Care;70.85
+HUM;Humana Inc.;Health Care;262.37
+IDXX;IDEXX Laboratories;Health Care;169.28
+ILMN;Illumina Inc;Health Care;209.54
+INCY;Incyte;Health Care;83.92
+IQV;IQVIA Holdings Inc.;Health Care;95.23
+ISRG;Intuitive Surgical Inc.;Health Care;381.87
+JNJ;Johnson & Johnson;Health Care;126.36
+LH;Laboratory Corp. of America Holding;Health Care;165.46
+LLY;Lilly (Eli) & Co.;Health Care;74.21
+MCK;McKesson Corp.;Health Care;150.23
+MDT;Medtronic plc;Health Care;78.38
+MRK;Merck & Co.;Health Care;54.73
+MTD;Mettler Toledo;Health Care;601
+MYL;Mylan N.V.;Health Care;39.25
+PDCO;Patterson Companies;Health Care;32.88
+PFE;Pfizer Inc.;Health Care;33.63
+PKI;PerkinElmer;Health Care;72.06
+PRGO;Perrigo;Health Care;84.44
+REGN;Regeneron;Health Care;322.62
+RMD;ResMed;Health Care;89.26
+SYK;Stryker Corp.;Health Care;148.01
+TMO;Thermo Fisher Scientific;Health Care;198.73
+UNH;United Health Group Inc.;Health Care;216.46
+VAR;Varian Medical Systems;Health Care;112.82
+VRTX;Vertex Pharmaceuticals Inc;Health Care;151.6
+WAT;Waters Corporation;Health Care;191.79
+XRAY;Dentsply Sirona;Health Care;56.85
+ZBH;Zimmer Biomet Holdings;Health Care;115.53
+ZTS;Zoetis;Health Care;71.51
+AAL;American Airlines Group;Industrials;48.6
+ALK;Alaska Air Group Inc;Industrials;64.04
+ALLE;Allegion;Industrials;77.32
+AME;AMETEK Inc;Industrials;72.05
+AOS;A.O. Smith Corp;Industrials;60.24
+ARNC;Arconic Inc;Industrials;24.45
+AYI;Acuity Brands Inc;Industrials;145.41
+BA;Boeing Company;Industrials;329.66
+CAT;Caterpillar Inc.;Industrials;145.99
+CHRW;C. H. Robinson Worldwide;Industrials;90.47
+CMI;Cummins Inc.;Industrials;165.73
+COL;Rockwell Collins;Industrials;133.31
+CSX;CSX Corp.;Industrials;50.47
+CTAS;Cintas Corporation;Industrials;149.32
+DAL;Delta Air Lines Inc.;Industrials;51.23
+DE;Deere & Co.;Industrials;153.66
+DOV;Dover Corp.;Industrials;96.2
+EFX;Equifax Inc.;Industrials;114
+EMR;Emerson Electric Company;Industrials;66.4
+ETN;Eaton Corporation;Industrials;79.41
+EXPD;Expeditors International;Industrials;60.36
+FAST;Fastenal Co;Industrials;52.15
+FBHS;Fortune Brands Home & Security;Industrials;62.44
+FDX;FedEx Corporation;Industrials;239.27
+FLR;Fluor Corp.;Industrials;55.31
+FLS;Flowserve Corporation;Industrials;40.82
+FTV;Fortive Corp;Industrials;69.14
+GD;General Dynamics;Industrials;206.05
+GE;General Electric;Industrials;14.45
+GWW;Grainger (W.W.) Inc.;Industrials;258.6
+HII;Huntington Ingalls Industries;Industrials;225.37
+HON;Honeywell Int'l Inc.;Industrials;146.02
+INFO;IHS Markit Ltd.;Industrials;43.73
+IR;Ingersoll-Rand PLC;Industrials;87.6
+ITW;Illinois Tool Works;Industrials;156.15
+JBHT;J. B. Hunt Transport Services;Industrials;114.81
+JCI;Johnson Controls International;Industrials;36.55
+JEC;Jacobs Engineering Group;Industrials;62.82
+KSU;Kansas City Southern;Industrials;103.53
+LLL;L-3 Communications Holdings;Industrials;198.79
+LMT;Lockheed Martin Corp.;Industrials;334.3
+LUV;Southwest Airlines;Industrials;55.63
+MAS;Masco Corp.;Industrials;40.7
+MMM;3M Company;Industrials;222.89
+NLSN;Nielsen Holdings;Industrials;33.9
+NOC;Northrop Grumman Corp.;Industrials;324.01
+NSC;Norfolk Southern Corp.;Industrials;136.89
+PCAR;PACCAR Inc.;Industrials;66.98
+PH;Parker-Hannifin;Industrials;174.51
+PNR;Pentair Ltd.;Industrials;66.67
+PWR;Quanta Services Inc.;Industrials;33.51
+RHI;Robert Half International;Industrials;52.26
+ROK;Rockwell Automation Inc.;Industrials;178.73
+ROP;Roper Technologies;Industrials;259.4
+RSG;Republic Services Inc;Industrials;62.72
+RTN;Raytheon Co.;Industrials;198.74
+SRCL;Stericycle Inc;Industrials;70.55
+TDG;TransDigm Group;Industrials;283
+TXT;Textron Inc.;Industrials;55.54
+UAL;United Continental Holdings;Industrials;63.37
+UNP;Union Pacific;Industrials;124.86
+UPS;United Parcel Service;Industrials;109.28
+UTX;United Technologies;Industrials;127.48
+VRSK;Verisk Analytics;Industrials;92.28
+WM;Waste Management Inc.;Industrials;79.12
+XYL;Xylem Inc.;Industrials;70.24
+AAPL;Apple Inc.;Information Technology;155.15
+ACN;Accenture plc;Information Technology;150.51
+ADBE;Adobe Systems Inc;Information Technology;185.16
+ADP;Automatic Data Processing;Information Technology;108.25
+ADS;Alliance Data Systems;Information Technology;240.6
+ADSK;Autodesk Inc;Information Technology;104.81
+AKAM;Akamai Technologies Inc;Information Technology;62.49
+AMAT;Applied Materials Inc;Information Technology;45.75
+AMD;Advanced Micro Devices Inc;Information Technology;11.22
+ANSS;ANSYS;Information Technology;148.84
+APH;Amphenol Corp;Information Technology;84.44
+ATVI;Activision Blizzard;Information Technology;65.83
+AVGO;Broadcom;Information Technology;229.57
+CDNS;Cadence Design Systems;Information Technology;36.82
+CRM;Salesforce.com;Information Technology;104.03
+CSCO;Cisco Systems;Information Technology;38.77
+CSRA;CSRA Inc.;Information Technology;30.85
+CTSH;Cognizant Technology Solutions;Information Technology;75.16
+CTXS;Citrix Systems;Information Technology;84.53
+DXC;DXC Technology;Information Technology;91.92
+EA;Electronic Arts;Information Technology;116.54
+EBAY;eBay Inc.;Information Technology;41.02
+FFIV;F5 Networks;Information Technology;137.25
+FIS;Fidelity National Information Services;Information Technology;92.74
+FISV;Fiserv Inc;Information Technology;133.05
+FLIR;FLIR Systems;Information Technology;46.46
+GLW;Corning Inc.;Information Technology;28.45
+GOOG;Alphabet Inc Class C;Information Technology;1001.52
+GOOGL;Alphabet Inc Class A;Information Technology;1007.71
+GPN;Global Payments Inc.;Information Technology;100.59
+HPE;Hewlett Packard Enterprise;Information Technology;15.04
+HPQ;HP Inc.;Information Technology;19.92
+HRS;Harris Corporation;Information Technology;149.84
+IBM;International Business Machines;Information Technology;147.59
+INTC;Intel Corp.;Information Technology;42.75
+INTU;Intuit Inc.;Information Technology;152.75
+IT;Gartner Inc;Information Technology;114.26
+JNPR;Juniper Networks;Information Technology;24.66
+KLAC;KLA-Tencor Corp.;Information Technology;98.54
+LRCX;Lam Research;Information Technology;162.23
+MA;Mastercard Inc.;Information Technology;160.62
+MCHP;Microchip Technology;Information Technology;79.9
+MSFT;Microsoft Corp.;Information Technology;85.01
+MSI;Motorola Solutions Inc.;Information Technology;98.74
+MU;Micron Technology;Information Technology;40
+NFLX;Netflix Inc.;Information Technology;250.1
+NTAP;NetApp;Information Technology;55.85
+NVDA;Nvidia Corporation;Information Technology;217.52
+ORCL;Oracle Corp.;Information Technology;46.84
+PAYX;Paychex Inc.;Information Technology;61.86
+PYPL;PayPal;Information Technology;72.32
+QCOM;QUALCOMM Inc.;Information Technology;62.42
+QRVO;Qorvo;Information Technology;76.85
+RHT;Red Hat Inc.;Information Technology;124.65
+SNPS;Synopsys Inc.;Information Technology;82.62
+STX;Seagate Technology;Information Technology;47.44
+SWKS;Skyworks Solutions;Information Technology;99.04
+SYMC;Symantec Corp.;Information Technology;25.59
+TEL;TE Connectivity Ltd.;Information Technology;95.27
+TSS;Total System Services;Information Technology;81.17
+TXN;Texas Instruments;Information Technology;97.66
+V;Visa Inc.;Information Technology;113.86
+VRSN;Verisign Inc.;Information Technology;105.62
+WDC;Western Digital;Information Technology;80.09
+WU;Western Union Co;Information Technology;18.81
+XLNX;Xilinx Inc;Information Technology;62.82
+XRX;Xerox Corp.;Information Technology;29.8
+ALB;Albemarle Corp;Materials;105.18
+APD;Air Products & Chemicals Inc;Materials;152.8
+AVY;Avery Dennison Corp;Materials;110.77
+BLL;Ball Corp;Materials;38.44
+CF;CF Industries Holdings Inc;Materials;37.46
+DWDP;DowDuPont;Materials;68.21
+ECL;Ecolab Inc.;Materials;127.76
+EMN;Eastman Chemical;Materials;93.57
+FCX;Freeport-McMoRan Inc.;Materials;17.16
+FMC;FMC Corporation;Materials;80.87
+IFF;Intl Flavors & Fragrances;Materials;138
+IP;International Paper;Materials;56.05
+LYB;LyondellBasell;Materials;105.79
+MLM;Martin Marietta Materials;Materials;208.42
+MON;Monsanto Co.;Materials;119.08
+MOS;The Mosaic Company;Materials;24.13
+NEM;Newmont Mining Corporation;Materials;36.61
+NUE;Nucor Corp.;Materials;60.38
+PKG;Packaging Corporation of America;Materials;111.95
+PPG;PPG Industries;Materials;110.3
+PX;Praxair Inc.;Materials;144.07
+SEE;Sealed Air;Materials;42.62
+SHW;Sherwin-Williams;Materials;387.65
+VMC;Vulcan Materials;Materials;121.47
+WRK;WestRock Company;Materials;60.93
+AIV;Apartment Investment & Management;Real Estate;38.21
+AMT;American Tower Corp A;Real Estate;133.57
+ARE;Alexandria Real Estate Equities Inc;Real Estate;114.58
+BXP;Boston Properties;Real Estate;112.09
+CBG;CBRE Group;Real Estate;41.92
+CCI;Crown Castle International Corp.;Real Estate;103.81
+DLR;Digital Realty Trust Inc;Real Estate;98.96
+DRE;Duke Realty Corp;Real Estate;24.52
+EQIX;Equinix;Real Estate;409.98
+EQR;Equity Residential;Real Estate;55.26
+EXR;Extra Space Storage;Real Estate;77.56
+FRT;Federal Realty Investment Trust;Real Estate;108.11
+GGP;General Growth Properties Inc.;Real Estate;21.62
+HCN;Welltower Inc.;Real Estate;54.67
+HCP;HCP Inc.;Real Estate;22.64
+HST;Host Hotels & Resorts;Real Estate;18.75
+IRM;Iron Mountain Incorporated;Real Estate;32.07
+KIM;Kimco Realty;Real Estate;14.01
+MAA;Mid-America Apartments;Real Estate;85.39
+MAC;Macerich;Real Estate;58.36
+O;Realty Income Corporation;Real Estate;47.56
+PLD;Prologis;Real Estate;58.33
+PSA;Public Storage;Real Estate;180.49
+REG;Regency Centers Corporation;Real Estate;55.58
+SBAC;SBA Communications;Real Estate;159.85
+SLG;SL Green Realty;Real Estate;90.61
+SPG;Simon Property Group Inc;Real Estate;152.18
+UDR;UDR Inc;Real Estate;32.92
+VNO;Vornado Realty Trust;Real Estate;66.18
+VTR;Ventas Inc;Real Estate;50.92
+WY;Weyerhaeuser Corp.;Real Estate;33.6
+CTL;CenturyLink Inc;Telecommunication Services;16.2
+T;AT&T Inc;Telecommunication Services;35.57
+VZ;Verizon Communications;Telecommunication Services;49.04
+AEE;Ameren Corp;Utilities;52.59
+AEP;American Electric Power;Utilities;63.38
+AES;AES Corp;Utilities;10.06
+AWK;American Water Works Company Inc;Utilities;76.06
+CMS;CMS Energy;Utilities;41.77
+CNP;CenterPoint Energy;Utilities;25.85
+D;Dominion Energy;Utilities;73.31
+DTE;DTE Energy Co.;Utilities;98.49
+DUK;Duke Energy;Utilities;74.32
+ED;Consolidated Edison;Utilities;74.73
+EIX;Edison Int'l;Utilities;58.07
+ES;Eversource Energy;Utilities;56.11
+ETR;Entergy Corp.;Utilities;72.02
+EXC;Exelon Corp.;Utilities;35.98
+FE;FirstEnergy Corp;Utilities;30.64
+LNT;Alliant Energy Corp;Utilities;37.14
+NEE;NextEra Energy;Utilities;145.29
+NI;NiSource Inc.;Utilities;22.51
+NRG;NRG Energy;Utilities;24
+PCG;PG&E Corp.;Utilities;38.24
+PEG;Public Serv. Enterprise Inc.;Utilities;46.73
+PNW;Pinnacle West Capital;Utilities;74.34
+PPL;PPL Corp.;Utilities;29.52
+SCG;SCANA Corp;Utilities;35.6
+SO;Southern Co.;Utilities;43.4
+SRE;Sempra Energy;Utilities;103.36
+WEC;Wec Energy Group Inc;Utilities;59.5
+XEL;Xcel Energy Inc;Utilities;42.44
